@@ -5,7 +5,7 @@ This app is called Universal Color Translator that converts English color text t
 
 🚀 Run Locally
 
-1. Open cmd and navigate to the directory where you saved the color-app.
+1. Open cmd and navigate to the directory where you saved the Universal-Color-Translator.
 2. Run the command - `npm install` - to install dependencies. 📦
 3. After installation, run - `npm run dev` - to run the application locally. 🏠
 
