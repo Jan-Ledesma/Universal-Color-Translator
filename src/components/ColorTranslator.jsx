@@ -62,7 +62,7 @@ function ColorTranslator() {
           disabled={!colorName && !hexValue}
           sx={{ mb: 2 }}
         >
-          Convert Color
+          Convert Color To HEX
         </Button>
 
         {hexValue && (
