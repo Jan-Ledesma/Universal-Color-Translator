@@ -12,9 +12,9 @@ function ColorTranslator() {
   };
 
   const handleConvertColor = () => {
-    const color = tinycolor(colorName);
-
     if (colorName == '') return;
+
+    const color = tinycolor(colorName);
 
     if (color.isValid() && isNaN(colorName)) {
       setHexValue(color.toHexString().toUpperCase());
