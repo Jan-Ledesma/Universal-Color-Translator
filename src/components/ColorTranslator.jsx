@@ -38,7 +38,7 @@ function ColorTranslator() {
   return (
     <Grid container justifyContent="center" alignItems="center" sx={{ height: '100vh', p: 2 }}>
       <Grid item="true" xs={12} sm={6} md={4}>
-        <Typography variant="h4" gutterBottom color="white" align="center" mb={2}>
+        <Typography variant="h5" gutterBottom color="white" align="center" mb={2}>
           Universal Color Translator
         </Typography>
 
