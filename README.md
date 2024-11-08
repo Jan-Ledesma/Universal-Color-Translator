@@ -14,5 +14,10 @@ This app is called Universal Color Translator that converts English color text t
 1. Run the command - `npm run test`.
 2. Tests will execute and will display passed or failed results. ✅❌
 
+⚠️ App Limitations
+
+1. Only accepts single color words (ex: yellow ✅ yellow green ❌)
+2. Translates only to Hex values
+
 [NOTE] If you encounter any challenges or have questions, feel free to contact me! 📧
 Email: janledesmaofficial@gmail.com
