@@ -1,6 +1,7 @@
 Setting Up Project
 
 📖 Introduction
+
 This app is called Universal Color Translator that converts English color text to hexadecimal values. 🎨
 
 🚀 Run Locally
